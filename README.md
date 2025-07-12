@@ -19,13 +19,12 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyoungwoong&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyoungwoong&show_icons=true&theme=tokyonight" width="40%"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://solved.ac/kyy980708">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyy980708" alt="Solved.ac 프로필" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyy980708" width="40%"/>
   </a>
+</p>
 
-</div>
 
