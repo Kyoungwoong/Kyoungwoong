@@ -21,7 +21,7 @@
 
 ![Youngwoong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyoungwoong&show_icons=true&theme=tokyonight)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyy980708@gmail.com)](https://solved.ac/kyy980708@gmail.com)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyy980708)](https://solved.ac/kyy980708)
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kyoungwoong&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 -->
