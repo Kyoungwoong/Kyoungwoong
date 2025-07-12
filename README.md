@@ -19,7 +19,7 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Kyoungwoong&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
