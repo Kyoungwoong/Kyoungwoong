@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=150&section=header&text=👋Welcome&fontAlign=45&desc=Youngwoong%20Profile&fontSize=50&descAlignY=70&descAlign=60&animation=fadeIn" alt="header"/>
+    <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=0:00c853,100:69f0ae&height=150&section=header&text=👋Welcome&fontAlign=45&desc=Youngwoong%20Profile&fontSize=50&descAlignY=70&descAlign=60&animation=fadeIn" alt="header"/>
 
   <h1>안녕하세요! 👋 김영웅입니다</h1>
 
