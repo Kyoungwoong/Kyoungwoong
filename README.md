@@ -19,10 +19,13 @@
 
 ---
 
-![Youngwoong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyoungwoong&show_icons=true&theme=tokyonight)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyy980708)](https://solved.ac/kyy980708)
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kyoungwoong&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
--->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyoungwoong&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <a href="https://solved.ac/kyy980708">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyy980708" alt="Solved.ac 프로필" />
+  </a>
+
+</div>
 
