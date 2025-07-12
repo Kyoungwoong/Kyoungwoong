@@ -14,6 +14,6 @@
 </p>
 
 ---
-![Youngwoong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Youngwoong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyoungwoong&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kyoungwoong&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
