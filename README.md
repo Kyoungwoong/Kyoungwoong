@@ -12,7 +12,7 @@
   <p>
     <a href="https://github.com/Kyoungwoong"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
     <a href="https://dev-hiro.tistory.com"><img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=blogger&logoColor=white"/></a>
-    <a href="mailto:kyy980708@gmail.com"><img src="https://img.shields.io/badge/E-mail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:kyy980708@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   </p>
 
 </div>
